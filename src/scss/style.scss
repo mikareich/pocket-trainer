@@ -1,0 +1,28 @@
+$primary-color: #6c63ff;
+
+html,
+body {
+  font-family: 'Muli', sans-serif;
+  margin: 0;
+}
+
+nav {
+  height: 100px;
+  display: flex;
+  padding: 0px 40px;
+  align-items: center;
+  .nav__link {
+    text-decoration: unset;
+    color: $primary-color;
+    transition: 200ms;
+    &:hover {
+      color: black;
+    }
+  }
+  .nav__link-title {
+    font-size: 40px;
+    font-weight: bolder;
+    margin-right: auto;
+    color: black;
+  }
+}

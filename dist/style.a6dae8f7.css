@@ -1,0 +1,28 @@
+html,
+body {
+  font-family: "Muli", sans-serif;
+  margin: 0;
+}
+
+nav {
+  height: 100px;
+  display: flex;
+  padding: 0px 40px;
+  align-items: center;
+}
+nav .nav__link {
+  text-decoration: unset;
+  color: #6c63ff;
+  transition: 200ms;
+}
+nav .nav__link:hover {
+  color: black;
+}
+nav .nav__link-title {
+  font-size: 40px;
+  font-weight: bolder;
+  margin-right: auto;
+  color: black;
+}
+
+/*# sourceMappingURL=/style.a6dae8f7.css.map */
