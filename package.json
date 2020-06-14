@@ -1,5 +1,11 @@
 {
   "devDependencies": {
+    "cssnano": "^4.1.10",
+    "parcel-plugin-static-files-copy": "^2.4.3",
     "sass": "^1.26.8"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "index.json": "^1.0.0"
   }
 }

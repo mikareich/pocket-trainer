@@ -1,0 +1,6 @@
+{
+  "title": "Test",
+  "lang": "french",
+  "creator": "mikareich",
+  "vocabularies": [{ "go": "gehen" }, { "eat": "essen" }, { "play": "spielen" }]
+}
