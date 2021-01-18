@@ -1,1 +1,0 @@
-{"version":3,"sources":["js/app.js"],"names":["fetch","then","d","text","console","log"],"mappings":";AAAAA,MAAM,oBACHC,KAAK,SAACC,GAAMA,OAAAA,EAAEC,SACdF,KAAK,SAACC,GAAME,OAAAA,QAAQC,IAAIH","file":"app.5b1320b3.js","sourceRoot":"../src","sourcesContent":["fetch('static/test.json')\n  .then((d) => d.text())\n  .then((d) => console.log(d))\n"]}
