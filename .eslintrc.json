@@ -17,6 +17,9 @@
     "no-use-before-define": "off",
     "react/jsx-filename-extension": [0, { "extensions": [".tsx"] }],
     "react/prop-types": "off",
-    "react/jsx-props-no-spreading": "off"
+    "react/jsx-props-no-spreading": "off",
+    "import/no-unresolved": "off",
+    "import/extensions": "off",
+    "no-unused-vars": "warn"
   }
 }
