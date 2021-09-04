@@ -16,6 +16,7 @@ function GlobalStyle() {
           min-height: 100vh;
           background-color: ${theme.bgColor};
           font-family: ${theme.fontFamily};
+          color: ${theme.textColor};
         }
       `}
     />
